@@ -61,7 +61,7 @@ FSN предназначен для выполнения команд при в�
 
 ## Licenses
 
-This software uses following libraries, which have its own liocenses.
+This software uses following libraries, which have its own licenses.
 
 ### [fsnotify](https://github.com/fsnotify/fsnotify)
 
